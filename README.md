@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitamishra1703/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitamishra1703/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ankitamishra1703/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/ankitamishra1703/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ankitamishra1703/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitamishra1703/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ankitamishra1703/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ankitamishra1703/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitamishra1703/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/ankitamishra1703/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/ankitamishra1703/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ankitamishra1703/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -54,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ankitamishra1703/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitamishra1703/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
